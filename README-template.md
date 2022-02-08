@@ -25,7 +25,7 @@ This challenge is made by using HTML and CSS. And it makes me use Flexbox by  wh
 ### Links
 
 - Solution URL: https://github.com/Soyeb01/3-Coloumn-preview-card.git 
-- Live Site URL: 
+- Live Site URL: https://3-column-card-by-soyeb01.netlify.app/
 
 ## My process
 
