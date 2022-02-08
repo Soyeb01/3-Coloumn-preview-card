@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -48,10 +47,6 @@ I finally did my whole CSS coding and its more better than my previous code.
 ### Continued development
 
 I want to polish my CSS learning more.
-
-### Useful resources
-
-- ( https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid ) This youtube video helped me a lot learn about flexbox.
 
 ## Author
 
