@@ -1,0 +1,127 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+p {
+  color: white;
+  font-family: 'Lexend Deca';
+  font-size: 15px;
+  padding-bottom: 100px;
+  line-height: 1.6em;
+}
+
+main {
+  height: 100vh;
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+h1 {
+  font-family: 'Big Shoulders Display';
+  font-weight: 700;
+  padding: 30px 0;
+  text-transform: uppercase;
+}
+
+button {
+  font-weight: 700;
+  border: none;
+  border-radius: 2em;
+  background-color: white;
+  padding: 15px;
+  width: 70%;
+}
+
+button:hover {
+  cursor: pointer;
+  border: 2px solid white;
+  background-color: inherit;
+}
+
+.b1:hover {
+  color: white;
+}
+
+.b2:hover {
+  color: white;
+}
+
+.b3:hover {
+  color: white;
+}
+
+div {
+  padding: 50px;
+  width: 300px;
+}
+
+.first {
+  background-color: #e38826;
+  border-radius: 10px 0 0 10px;
+}
+
+.first button {
+  color: #e38826;
+}
+
+.sec {
+  background-color: #006970;
+  width: 310px;
+}
+
+.sec button {
+  color: #006970;
+}
+
+.third {
+  background-color: #004241;
+  border-radius: 0 10px 10px 0;
+}
+
+.third button {
+  color: #004241;
+}
+
+@media only screen and (max-width: 820px) {
+  main {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    height: auto;
+    width: 100hw;
+    margin: 20px 10px 20px 10px;
+  }
+  div {
+    width: 100%;
+  }
+  .first {
+    border-radius: 10px 10px 0 0;
+  }
+  .sec {
+    width: 100%;
+  }
+  .third {
+    border-radius: 0 0 10px 10px;
+  }
+  p {
+    padding-bottom: 20px;
+  }
+}
+/*# sourceMappingURL=main.css.map */
